@@ -10,10 +10,10 @@
 
 ## Results
 
-1.  We noted that here is a large number of senior engineers and senior staff eligible for retirement (over 5000, combined).  Wehereas only 2 emplyees management are eligible to retire.
+1.  We noted that here is a large number of senior engineers and senior staff eligible for retirement (over 5000, combined).  Wehereas only 2 emplyees management are eligible to retire. Please see retiring_titles.csv for findings. 
 	
 
-2.  We identified 2383 employees eligible for the mentorship program.  Staff, senior staff, engineers, and senior engineers are all around 500 whereas assistant managers and technical leaders are fewer, about 78.  No managers were identified as eligible for mentorship.
+2.  We identified 2383 employees eligible for the mentorship program.  Staff, senior staff, engineers, and senior engineers are all around 500 whereas assistant managers and technical leaders are fewer, about 78.  No managers were identified as eligible for mentorship. Please see mentorshi_eligibility.csv and 
 
 ### Summary
 
